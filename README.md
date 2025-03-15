@@ -4,12 +4,13 @@
 
 
 A Tool With Attractive Capabilities.
+</br>
+
+ php  python   Linux 
 
 ![screen1](https://github.com/user-attachments/assets/becb48bd-587c-4470-bbb2-7fd86d6b2212)
 
- php 
 
-demo
 
 Features:
 Obtain Device Information Without Any Permission !
